@@ -6,7 +6,8 @@
   <b>Backend Developer | Node.js | Learning TypeScript</b>
 </p>
 
-# ❄️ Cleber Martins | Backend Developer | Also known as Winter
+# ❄️ Cleber Martins | Backend Developer | 
+> Also known as Winter
 
 > Back-end developer focused on building APIs, authentication systems and scalable applications.
 
