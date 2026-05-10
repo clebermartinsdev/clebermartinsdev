@@ -6,7 +6,7 @@
   <b>Backend Developer | Node.js | TypeScript</b>
 </p>
 
-# ❄️ Cleber Martins | Backend Developer (Node.js)
+# ❄️ Cleber | Backend Developer (Node.js)
 
 > Backend developer focused on building APIs, authentication systems and scalable applications with Node.js and TypeScript.
 
@@ -62,8 +62,8 @@ Full-stack financial management application focused on personal expense tracking
 **API Hosting:** Vercel  
 **Features:** JWT authentication · Protected routes · File uploads · Cloudinary integration · Monthly reports · Financial insights  
 
-- 🔗 [Frontend](https://github.com/imcleber/finance)
-- 🔗 [Backend](https://github.com/imcleber/finance-api)
+- 🔗 [Frontend](https://github.com/iswntr/finance)
+- 🔗 [Backend](https://github.com/iswntr/finance-api)
 - 🌐 Private production deployment (real usage)
 
 ---
@@ -84,27 +84,14 @@ Currently building backend-focused projects and looking for internship or junior
 
 ---
 
-## 🌐 Contact
-
-<div>
-  <a href="https://linkedin.com/in/yumi.isis1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:isisyumi.contact@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div>
-  <img height="180em" src="https://winter-stats.vercel.app/api?username=imcleber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://winter-stats.vercel.app/api?username=iswntr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
-  <img height="180em" src="https://winter-stats.vercel.app/api/top-langs/?username=imcleber&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://winter-stats.vercel.app/api/top-langs/?username=iswntr&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <br>
 
-<img width="100%" src="https://ghchart.rshah.org/58a6ff/winterzinha" alt="winterzinha's Github chart" />
+<img width="100%" src="https://ghchart.rshah.org/58a6ff/iswntr" alt="iswntr's Github chart" />
